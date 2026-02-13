@@ -1,5 +1,16 @@
 #  About Me:
-PRANESH<br>Game Designer & Developer | AR/VR | AI-Driven Systems<br>ABOUT<br>Game Designer & Developer building intelligent, adaptive, and immersive digital experiences.<br>My focus lies in combining AI, AR/VR, and cybersecurity principles to create systems that respond to user behavior and enhance cognitive engagement.<br><br>CURRENTLY WORKING ON<br>TheraGames – AI-powered therapeutic gaming platform with real-time emotion-aware adaptation<br><br>CyberGuard – Advanced cybersecurity application with intelligent threat analysis<br><br>Adaptive gameplay mechanics for focus, impulse control, and cognitive training<br><br>LOOKING TO COLLABORATE ON<br>AR/VR/XR game development<br><br>AI-driven gameplay systems<br><br>Serious games for behavioral and cognitive enhancement<br><br>Scalable full-stack gaming applications<br><br>SEEKING HELP WITH<br>AI model optimization and deployment pipelines<br><br>Backend scaling and multiplayer architecture<br><br>Production-grade DevOps and system design<br><br>CURRENTLY LEARNING<br>Advanced MERN stack development<br><br>Real-time AI integration in games<br><br>Scalable architecture and performance optimization
+# PRANESH<br>
+Game Designer & Developer | AR/VR | AI-Driven Systems<br> 
+# ABOUT<br>
+Game Designer & Developer building intelligent, adaptive, and immersive digital experiences.<br>My focus lies in combining AI, AR/VR, and cybersecurity principles to create systems that respond to user behavior and enhance cognitive engagement.<br><br>
+# CURRENTLY WORKING ON<br>
+TheraGames – AI-powered therapeutic gaming platform with real-time emotion-aware adaptation<br><br>CyberGuard – Advanced cybersecurity application with intelligent threat analysis<br><br>Adaptive gameplay mechanics for focus, impulse control, and cognitive training<br><br>
+# LOOKING TO COLLABORATE ON<br>
+AR/VR/XR game development<br><br>AI-driven gameplay systems<br><br>Serious games for behavioral and cognitive enhancement<br><br>Scalable full-stack gaming applications<br><br>
+# SEEKING HELP WITH<br>
+AI model optimization and deployment pipelines<br><br>Backend scaling and multiplayer architecture<br><br>Production-grade DevOps and system design<br><br>
+# CURRENTLY LEARNING<br>
+Advanced MERN stack development<br><br>Real-time AI integration in games<br><br>Scalable architecture and performance optimization
 
 
 ## 🌐 Socials:
