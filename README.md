@@ -10,7 +10,7 @@ AR/VR/XR game development<br><br>AI-driven gameplay systems<br><br>Serious games
 # SEEKING HELP WITH<br>
 AI model optimization and deployment pipelines<br><br>Backend scaling and multiplayer architecture<br><br>Production-grade DevOps and system design<br><br>
 # CURRENTLY LEARNING<br>
-Advanced MERN stack development<br><br>Real-time AI integration in games<br><br>Scalable architecture and performance optimization
+Advanced MERN stack development<br><br>Real-time AI integration in games<br><br>Scalable architecture and performance optimization.
 
 
 ## 🌐 Socials:
