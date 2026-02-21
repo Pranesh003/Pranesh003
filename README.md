@@ -69,6 +69,8 @@
 
 </td>
 
+
+
 <td width="50%" align="center">
    <h3>🎮 Game Engine</h3>
 <img src="https://skillicons.dev/icons?i=godot,unity,unreal" />
@@ -87,7 +89,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,blender," />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,blender,replit,visualstudio" />
   <br/><br/>
 </td>
 
