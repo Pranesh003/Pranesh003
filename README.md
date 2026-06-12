@@ -118,6 +118,10 @@
 
 ---
 
+![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranesh003&theme=dark&show_icons=true&&hide=issues,contribs)
+
+---
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/pranesh_kph?ext=contest&theme=dark)](https://leetcode.com/pranesh_kph/)
 
 ---
