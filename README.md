@@ -118,7 +118,7 @@
 
 ---
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/pranesh_kph/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/pranesh_kph?ext=contest&theme=dark)](https://leetcode.com/pranesh_kph/)
 
 ---
 
