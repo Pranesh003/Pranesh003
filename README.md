@@ -118,6 +118,10 @@
 
 ---
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/pranesh_kph/)
+
+---
+
 ## ❤️ Support Me
 
 <p align="center">
