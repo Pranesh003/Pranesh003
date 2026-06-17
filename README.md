@@ -118,7 +118,10 @@
 
 ---
 
-![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranesh003&theme=dark&show_icons=true&&hide=issues,contribs)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranesh003&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+ 
+</div>
 
 ---
 
