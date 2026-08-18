@@ -50,17 +50,14 @@
   </a>
 </p>
 
+---
 
-  <img src="https://komarev.com/ghpvc/?username=pranesh003&style=flat-square&color=blue" alt="Profile Visit"/>
-  <a href="https://github.com/Surane123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pranesh003?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  </a>
-  <a href="https://github.com/Pranesh003">
-    <img src="https://img.shields.io/github/stars/Pranesh003?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" alt="stars" />
-  </a>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://streak-stats.demolab.com/?user=pranesh003&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br clear="all" />
+---
 
 
 ## 🛠️ Skills
