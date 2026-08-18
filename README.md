@@ -109,10 +109,13 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pranesh003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=pranesh003&theme=dark&hide_border=false" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 
 
