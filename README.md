@@ -109,20 +109,12 @@
 
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pranesh003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranesh003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <br/>
-  <!-- Switched to official working mirror for Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=pranesh003&theme=dark&hide_border=true" alt="Streak" />
-</div>
 
----
-
-<div align="center">
-  <!-- Switched to the actively maintained Extended Stats community endpoint -->
-  <img src="https://github-stats-extended.vercel.app/api?username=pranesh003&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-</div>
 
 ---
 
