@@ -113,14 +113,15 @@
 
 <div align="center">
   <br/>
+  <!-- Switched to official working mirror for Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=pranesh003&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranesh003&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
- 
+  <!-- Switched to the actively maintained Extended Stats community endpoint -->
+  <img src="https://github-stats-extended.vercel.app/api?username=pranesh003&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 </div>
 
 ---
